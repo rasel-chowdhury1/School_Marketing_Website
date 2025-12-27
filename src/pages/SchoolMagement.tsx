@@ -48,7 +48,7 @@ export default function SchoolManagementMarketing() {
 
           <div className="flex justify-center">
             <img
-              src="../../public/school.png"
+              src="https://res.cloudinary.com/dns84qf2p/image/upload/v1766836800/school_ylph6s.png"
               alt="School staff using Classaty dashboard"
               className="max-w-full h-auto rounded-xl"
             />
